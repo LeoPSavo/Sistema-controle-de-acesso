@@ -1,3 +1,3 @@
-# Sistema de controle de acesso usando SpringBoot
+# Sistema de controle de ponto usando SpringBoot
 
 
